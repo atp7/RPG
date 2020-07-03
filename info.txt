@@ -1,1 +1,2 @@
 From the marketplace i've used Unity standard assets (2015 version)
+As resources i've used unity documentation, lecture presentations slides notes, unity.com/youtube/udemy tutorials 
